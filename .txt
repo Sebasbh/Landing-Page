@@ -1,0 +1,17 @@
+body{
+  height: auto;
+  background-image: url("colorde\ fomndo\ 1.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+<a></a><img src="colorde fomndo 1.png" alt=""></a>
+
+   /*+<div>
+        <img src="air-jordan-1.png" whith="100" class="derecha"/>
+        <img src="jordan izquierda.png" whith="100"class="izquierda"/>
+    </div>
+    <div class="search-bar">
+    <input type="text">
+    <div class="actions">
+      <button><span class="material-icons">mic</span></button
